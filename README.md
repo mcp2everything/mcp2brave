@@ -1,5 +1,7 @@
 # mcp2brave
 
+[![smithery badge](https://smithery.ai/badge/mcp2brave)](https://smithery.ai/server/mcp2brave)
+
 一个基于MCP协议的服务器，使用Brave API实现网络搜索功能。
 
 ## 系统要求
@@ -10,6 +12,15 @@
 
 ## 安装步骤
 
+### Installing via Smithery
+
+To install MCP2Brave for Claude Desktop automatically via [Smithery](https://smithery.ai/server/mcp2brave):
+
+```bash
+npx -y @smithery/cli install mcp2brave --client claude
+```
+
+### 手动安装步骤
 1. 克隆项目
 ```bash
 git clone <仓库地址>
@@ -36,7 +47,6 @@ source .venv/bin/activate
 ```bash
 uv sync
 ```
-
 ## 使用方法
 
 ### 安装为Claude扩展
