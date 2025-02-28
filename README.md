@@ -2,6 +2,8 @@
 
 一个基于MCP协议的服务器，使用Brave API实现网络搜索功能。
 
+<a href="https://glama.ai/mcp/servers/vcwtdnw42n"><img width="380" height="200" src="https://glama.ai/mcp/servers/vcwtdnw42n/badge" alt="MCP2Brave MCP server" /></a>
+
 ## 系统要求
 
 - Python 3.11+
